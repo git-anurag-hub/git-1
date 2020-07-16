@@ -1,4 +1,5 @@
 body {
   background: rebeccapurple;
   font-size: large;
+  grid-template-areas: initial;
 }
