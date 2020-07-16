@@ -2,4 +2,6 @@ body {
   background: rebeccapurple;
   font-size: large;
   grid-template-areas: initial;
+  color: aliceblue;
+  margin: 10px;
 }
